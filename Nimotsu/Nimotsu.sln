@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest", "UnitTest\UnitTest.vcproj", "{41B72517-8379-4E2B-905F-C9CB1E796CD4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NimotsuExe", "NimotsuExe\NimotsuExe.vcproj", "{C09D582C-F467-4161-B24A-19969232B6F0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NimotsuLib", "NimotsuLib\NimotsuLib.vcproj", "{5CF07EC1-7428-4C06-A65F-1AD20FF773FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41B72517-8379-4E2B-905F-C9CB1E796CD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41B72517-8379-4E2B-905F-C9CB1E796CD4}.Debug|Win32.Build.0 = Debug|Win32
+		{41B72517-8379-4E2B-905F-C9CB1E796CD4}.Release|Win32.ActiveCfg = Release|Win32
+		{41B72517-8379-4E2B-905F-C9CB1E796CD4}.Release|Win32.Build.0 = Release|Win32
+		{C09D582C-F467-4161-B24A-19969232B6F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C09D582C-F467-4161-B24A-19969232B6F0}.Debug|Win32.Build.0 = Debug|Win32
+		{C09D582C-F467-4161-B24A-19969232B6F0}.Release|Win32.ActiveCfg = Release|Win32
+		{C09D582C-F467-4161-B24A-19969232B6F0}.Release|Win32.Build.0 = Release|Win32
+		{5CF07EC1-7428-4C06-A65F-1AD20FF773FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CF07EC1-7428-4C06-A65F-1AD20FF773FF}.Debug|Win32.Build.0 = Debug|Win32
+		{5CF07EC1-7428-4C06-A65F-1AD20FF773FF}.Release|Win32.ActiveCfg = Release|Win32
+		{5CF07EC1-7428-4C06-A65F-1AD20FF773FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
